@@ -1,8 +1,8 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://twitter.com/bryamslm" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="apoorv__tyagi" width="55" height="55" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/bryamslm" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" width="55" height="55" /></a>&nbsp;
-<a href="http://discord.com/users/bryamslm#0261" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="apoorv#4040" width="55" height="55" /></a>&nbsp;
+<a href="https://twitter.com/bryamslm" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="apoorv__tyagi" width="55" height="55" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/bryamslm" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" width="55" height="55" /></a>&nbsp;
+<a href="http://discord.com/users/bryamslm#0261" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="apoorv#4040" width="55" height="55" /></a>&nbsp;
 </p>
 
 <div align="center">
