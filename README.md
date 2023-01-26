@@ -29,8 +29,10 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="45" height="55"/>
       <img src="https://github.com/bryamslm/Bryamslm/blob/main/c.svg" alt="c plus plus" width="45" height="55"/>
-      <img src="https://devicons.herokuapp.com/csharp-original.svg" alt="csharp" width="45" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="csharp" width="45" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGIS" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="Ionic" width="45" height="55"/>
 </p>
 
 ---
