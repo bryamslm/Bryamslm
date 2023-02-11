@@ -3,6 +3,7 @@
 <a href="https://twitter.com/bryamslm" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="apoorv__tyagi" width="55" height="55" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/bryamslm" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" width="55" height="55" /></a>&nbsp;
 <a href="http://discord.com/users/bryamslm#0261" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="apoorv#4040" width="55" height="55" /></a>&nbsp;
+<a href="mailto:bryamlopez4@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="apoorv#4040" width="55" height="55" /></a>&nbsp;
 </p>
 
 <div align="center">
