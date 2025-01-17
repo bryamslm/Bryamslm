@@ -1,25 +1,24 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p text-align="center">
-     Research Student at CGLABTEC in VR and AR Experiences
+     Full Stack Developer | Observability and XR Enthusiast
 </p>
 <p align="center">
 <a href="https://twitter.com/bryamslm" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="apoorv__tyagi" width="55" height="55" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/bryamslm" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" width="55" height="55" /></a>&nbsp;
-<a href="http://discord.com/users/bryamslm#0261" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="apoorv#4040" width="55" height="55" /></a>&nbsp;
+<a href="http://discord.com/users/bryamslm#0261" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="apoorv#4040" width="55" height="55" /></a>&nbsp;
 <a href="mailto:bryamlopez4@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="apoorv#4040" width="55" height="55" /></a>&nbsp;
 </p>
-
-<div align="center">
-     <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
-</div>
+<p>
+     Portfolio: <a href="https://portfolio-bryam.vercel.app" target="_blank">https://portfolio-bryam.vercel.app/</a>&nbsp;
+</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏫 I'm Computer Engineering student at Instituto Tecnológico de Costa Rica (TEC)
+- 🏫 I am a Computer Engineering graduate from the Instituto Tecnológico de Costa Rica (TEC)
       <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" width="30">
-- 💻 I use frequently **.js**, **.java**, **.py**,  **.sql**
-- 📺 I am currently watching **Doctor House** and **One Piece**
-- 💬 We can talk about **Anime**, **Manga**, **Programming**, **Music**, **Games** and **Movies**
-- 👯 We can connect to play some Clash Royale or Yu-Gi-Oh! Duel Links
+- 💻 I use frequently **.js**, **.ts**, **.py**,  **.sql**
+- 📺 I am currently watching **Breaking Bad** and **One Piece**
+- 💬 We can talk about **Anime**, **Valorant**, **Programming**, **Music**, **Games** and **Movies**
+- 👯 We can connect to play some Clash Royale or Valorant
 - ⚡ Fun fact: I love Queen and I am a big fan of the band
 - 🧑‍💻 Tech I have worked on :
 
@@ -37,7 +36,6 @@
       <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="csharp" width="45" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGIS" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="Ionic" width="45" height="55"/>
-     <img src="https://github.com/bryamslm/Bryamslm/blob/main/ANTLR.png" alt="ANTLR4" height="50"/>
 </p>
 
 ---
